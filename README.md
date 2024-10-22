@@ -28,6 +28,8 @@
 - [ACE 2005](https://catalog.ldc.upenn.edu/LDC2006T06)
 - [GENIA](http://www.geniaproject.org/genia-corpus)
 - [CADEC](https://pubmed.ncbi.nlm.nih.gov/25817970/)
+- [Resume]
+- [Weibo]
 
 ## 5. Training
 
