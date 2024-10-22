@@ -35,8 +35,8 @@
 
 ```bash
 >> python main_w2ner_origin.py --config ./config/example.json
-save the best model in the path of './model_ner/ner_model.pt'
+# save the best model in the path of './model_ner/ner_model.pt'
 >> python main_n_ration.py --config ./config/example.json
-save the mask model in the path of './model_mask/mask_model.pt'
+# save the mask model in the path of './model_mask/mask_model.pt'
 >> python main_EM_ner.py --config ./config/example.json
-save the iterately training model in the path of './model_EM/EM_model.pt'
+# save the iterately training model in the path of './model_EM/EM_model.pt'
